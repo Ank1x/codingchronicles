@@ -1,0 +1,18 @@
+/* Override this file to customise the theme's CSS for your site */
+:root {
+    --font-monospace: "Segoe UI";
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: 1.3rem;
+    margin: 1.5rem 0 0 0;
+    font-weight: 600;
+    color: #F56476;
+}
+
+p {
+    font-size: 1.2rem;
+    padding-top: 10px;
+    letter-spacing: 0.1px;
+    line-height: 1.7rem;
+}
