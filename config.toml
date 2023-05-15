@@ -18,6 +18,11 @@ sectionPagesMenu = "main"
 [params]
 noindex = false
 
+# Added by Ank1x
+[params.meta]
+favicon = true
+faviconVersion = "1"
+
 [params.theme]
 palette = "base16-macosdark"
 
