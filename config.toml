@@ -1,4 +1,4 @@
-baseURL = 'http://codingchronicles.pages.dev/'
+baseURL = 'https://codingchronicles.pages.dev/'
 title = 'Coding Chronicles'
 author = 'Ank1x'
 theme = 'risotto'
