@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2023-05-15T11:16:47+05:30
-draft: true
+draft: false
 tags: ["coding", "general"]
 ---
 
