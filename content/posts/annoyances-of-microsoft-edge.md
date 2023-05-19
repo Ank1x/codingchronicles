@@ -1,13 +1,13 @@
 ---
-title: "Maladaptive Exasperating Microsoft Edge"
+title: "Annoyances of Microsoft Edge"
 date: 2023-05-19T14:05:09+05:30
 draft: false
 subtitle:
 tags:
   - Annoying
-  - Exasperating
   - Microsoft
   - Edge
+  - Microsoft Edge
 ---
 
 My default browser, almost continuously since I started using it, has been Google Chrome. I will, however, sometimes open my Outlook account in Edge or open it to test some webpage I am working on. Edge will occasionally annoy me with a popup asking to be the default browser, even though I have closed the notification before. Just one of the many reasons why I will never use Microsoft Edge as my default browser (as long as Google Chrome exists).
