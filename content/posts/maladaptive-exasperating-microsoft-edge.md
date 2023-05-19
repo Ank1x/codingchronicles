@@ -10,7 +10,7 @@ tags:
   - Edge
 ---
 
-My default browser, almost continuously since I started using it, has been Google Chrome. I will, however, sometimes open my Outlook account in Edge or open it to test some webpage I am working on. Edge will occasionally annoy me with a popup asking to be the default browser, even though I have closed the notification before. Just one of the many reasons why I will never use Microsoft Edge (as long as Google Chrome exists).
+My default browser, almost continuously since I started using it, has been Google Chrome. I will, however, sometimes open my Outlook account in Edge or open it to test some webpage I am working on. Edge will occasionally annoy me with a popup asking to be the default browser, even though I have closed the notification before. Just one of the many reasons why I will never use Microsoft Edge as my default browser (as long as Google Chrome exists).
 
 With the new update(111), Microsoft Edge has decide to take things one step further into annoying the user, by installing a desktop search bar that nobody agreed to install. 
 
