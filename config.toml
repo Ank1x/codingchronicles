@@ -1,7 +1,8 @@
-baseURL = 'https://codingchronicles.pages.dev/'
+baseURL = 'https://codingchronicles.pages.dev'
 title = 'Coding Chronicles'
 author = 'Ank1x'
 theme = 'risotto'
+
 
 paginate = 3
 languageCode = "en"
@@ -24,7 +25,7 @@ favicon = true
 faviconVersion = "1"
 
 [params.theme]
-palette = "base16-macosdark"
+palette = "base16-macosdark2"
 
 # Sidebar: about/bio
 [params.about]
@@ -95,3 +96,4 @@ unsafe = true
 
   [services.twitter]
     disableInlineCSS = true
+	
