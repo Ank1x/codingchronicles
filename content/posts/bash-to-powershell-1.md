@@ -49,7 +49,7 @@ You can also use multiple Attribute combinations, for example, ```!Directory,Hid
 
 |  Bash  |  Powershell   |
 |----------------------|--------------------------------------|
-| ```ls``` | ```gci -ad | fw Name -A``` |
+| ```ls``` | ```gci -ad \| fw Name -A``` |
 | ```ls -l``` | ```gci```|
 | ```ls -al``` | ```gci -fo```|
 | ```ls -d */``` | ```gci -ad``` |
