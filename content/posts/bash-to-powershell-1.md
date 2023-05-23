@@ -41,7 +41,7 @@ You can also use multiple Attribute combinations, for example, ```!Directory,Hid
 
 - The ```-R``` option for ```ls``` allows you to list subdirectories recursively. The Powershell equivalent is ```Get-ChildItem -Recurse```, which can be shortened to ```gci -R```.
 
-- What if you wanted to filter only .txt files from the recursive listing. Well, in linux you have to pipe the output of ```ls``` to ```grep```, while Powershell offers a ```-Filter``` option for ```Get-ChildItem``` to do that, resulting in the command ```Get-ChildList -Recurse -Filter *.txt```, or ```gci -r -fi *.txt```.
+- What if you wanted to filter only .txt files from the recursive listing. Well, in linux you have to pipe the output of ```ls``` to ```grep```, while Powershell offers a ```-Filter``` option for ```Get-ChildItem``` to do that, resulting in the command ```Get-ChildItem -Recurse -Filter *.txt```, or ```gci -r -fi *.txt```.
 
 >Warning: Using the ```ls``` command in Linux executes the default ```ls``` command provided by the Linux operating system, even inside Powershell. So if you are writing cross-platform Powershell scripts, use ```gci``` instead of ```ls```.
 
