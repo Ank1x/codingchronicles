@@ -5,7 +5,7 @@ description: Commands translated from Linux Bash to Cross-platform Powershell
 tags: 
   - Powershell
   - Bash
-draft: false
+draft: true
 ---
 
 {{< figure src="/images/icons8-bash-to-powershell-3.png" alt="bash to powershell" height="64px" width="192px" >}}
