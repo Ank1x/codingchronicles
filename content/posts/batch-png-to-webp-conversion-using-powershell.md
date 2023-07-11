@@ -49,6 +49,6 @@ New-Alias png2webp png-to-webp
 
 Now, save the file as ```Microsoft.PowerShell_profile.ps1```  in the folder ```C:\Users\<<Your username here>>\Documents\PowerShell```. Replace <<Your username here>> with your Windows username. Saving in this location adds the commands to your Powershell profile, which means you can use it everytime you start a new powershell window from now on just by typing ```webp2png``` OR ```png2webp```. A detailed discussion of Powershell profiles can be found [here](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.2).
 
-That's it! Now you can just go to any folder in Powershell and just type ```png2webp``` to convert all PNG, JPEG and TIFF files within that folder to WebP. You can also convert WebP files to PNG by typing ```webp2png```.
+That's it! Now you can just go to any folder in Powershell and just type ```png2webp``` to convert all PNG files within that folder to WebP. You can also convert WebP files to PNG by typing ```webp2png```.
 
 >Note: If you're already using this Powershell profile to save some of your own commands, be sure to not overwrite the profile, just open the file and add the script at the end.
