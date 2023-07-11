@@ -16,11 +16,11 @@ Compressing PNG images to WebP, especially for serving web content, can result i
 
 First, download the tools and extract them to a folder libwebp. Be sure to not include dots(.) in the extracted folder path as this seems to cause issues with Windows locating them via Path variables. Next, go to environment varibles by searching for them in the start menu and go to the environment variables page.
 
-{{< figure src="./images/environment-variables.png" alt="Environment Variables Dialog Box" width="400px" >}}
+{{< figure src="/images/environment-variables.png" alt="Environment Variables Dialog Box" width="400px" >}}
 
 Then, go to the Path environment variable under user environment variables, and add the location of the bin subfolder of the folder you just extracted from the zip file by clicking on New and either typing out the path name or browsing to the folder. For me, it was ```C:\Programs\libwebp\bin```.
 
-{{< figure src="./images/path-environment-variable.png" alt="Path Environment User Variable" width="400px" >}}
+{{< figure src="/images/path-environment-variable.png" alt="Path Environment User Variable" width="400px" >}}
 
 Now, lets get on to the scripting part. First of all, search for Powershell ISE in the start menu and open it. A new script should already be opened. If it's not, go to File-->New and open a new script. Type or Paste the following in the script below:
 
