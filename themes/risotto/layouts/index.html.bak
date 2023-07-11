@@ -1,7 +1,0 @@
-{{ define "main" }}
-  {{ range where .Pages "Section" "blog" }}
-    <h2>{{ .Title }}</h2>
-    <p>{{ .Summary }}</p>
-    <a href="{{ .Permalink }}">Read more</a>
-  {{ end }}
-{{ end }}
