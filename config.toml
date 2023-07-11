@@ -4,6 +4,7 @@ theme = "terminal"
 paginate = 5
 
 favicon = "favicon.ico"
+canonifyURLs = true
 
 [params]
   contentTypeName = "posts"
