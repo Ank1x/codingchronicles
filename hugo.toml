@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Coding Chronicles'
+
+theme = "paper"
+name = "Coding Chronicles"
+license = "MIT"
+licenselink = "https://github.com/Ank1x/codingchronicles"
+description = "A simple blog"
+homepage = "https://github.com/Ank1x/codingchronicles"
+tags = ["Blog", "Web", "Development"]
+features = ["Responsive", "One Column", "Blog"]
+min_version = "0.57.1"
+
+[params]
+  author.name = "Ankit"
+
