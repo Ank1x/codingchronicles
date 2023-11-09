@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Coding Chronicles'
+canonifyURLs = true
 
 theme = "paper"
 name = "Coding Chronicles"
